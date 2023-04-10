@@ -1,5 +1,5 @@
 ---
-title: Windows in Rayfield
+title: Balls
 description: Creating a Window in Rayfield
 layout: ../layouts/MainLayout.astro
 ---
